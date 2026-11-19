@@ -184,4 +184,4 @@ Then open `notebooks/loan_approval_analysis.ipynb`. The notebook reads the CSV f
 
 ---
 
-**Built as an applied machine-learning project — from raw applicant data to a working prediction interface.**
+**Built as an applied machine-learning project - from raw applicant data to a working prediction interface.**

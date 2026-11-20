@@ -56,7 +56,6 @@ if st.button("Check eligibility"):
         
 st.divider()
 # st.caption("(👉ﾟヮﾟ)👉 Work Done by Muzammil Maqsood aka Astra Zombater. ( ͡~ ͜ʖ ͡°)")
-st.divider()
 
 st.markdown(
     """
